@@ -1,5 +1,5 @@
 # Phone-Handle
-计算机网络课程项目——用Python开发的手机手柄
+用Python开发的手机手柄
 
  ![image](https://raw.githubusercontent.com/Wu-Jiaxin/Phone-Handle/master/UI_Image/1.png)
  
